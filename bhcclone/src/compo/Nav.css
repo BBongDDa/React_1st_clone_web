@@ -1,0 +1,73 @@
+
+.Navheader {
+    background-color: #ece1cb;
+    height: 125px;
+    color: white;
+    border-top: 5px solid #727272;
+  }
+
+  .NavWrap{
+    padding: 1rem;
+    padding-top: 35px;
+    padding-left: 120px;
+    height: 90px;
+  }
+
+  .logo{
+      float: left;
+  }
+
+  .Choice{
+      height: 17px;
+      position: relative;
+      left: 50px;
+      top: 40px;
+      text-transform: uppercase;
+      letter-spacing: -1px;
+  }
+  .Choice1{
+    color: #813504;
+    font-weight: 550;
+    font-size: 18px;
+    height: 19px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: -1px;
+    float: left;
+    width: 9%;
+    border-right: solid 3px rgb(177, 177, 177);
+  }
+  
+  .Choice2{
+    color: #813504;
+    font-size: 18px;
+    height: 19px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 550;
+    letter-spacing: -1px;
+    float: left;
+    width: 9%;
+  }
+
+  .buttonwrap{
+    position: relative;
+    left: 1100px;
+    top: -52px;
+    height: 35px;
+    width: 146.25px;
+     background-color:#727272;
+     border-radius: 0 0 10px 10px;
+  }
+  .button1{
+    position: relative;
+    top: -45px;
+    font-size: 12px;
+    font-family: 나눔고딕;
+    color: #f7f7f7;
+    border: none;
+    background-color: #727272;
+  }
+  
